@@ -16,3 +16,5 @@ I designed the game’s dynamic music system. Synth instruments were created thr
 Video Demonstration:
 
 https://youtu.be/8q8Q8HTFnD0
+
+![alt text](https://github.com/RyanMillett/CMPM151---Game-Hackathon/blob/main/screen_shot.png)
