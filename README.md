@@ -11,3 +11,8 @@ During non-combat states, the music takes on a more ambient, quasi-meterless cha
 The arrival of enemy ships triggers a combat state marked by contrasting musical materials composed of alternating asymmetric meters of jagged, ostinato percussive elements. In this state, the lyrical melody is replaced with a staccato phasor an octave higher and the pad sweeps are removed entirely in order to heighten the player’s sense of danger but also to make room for the influx of combat sound effects. A phase distortion synth is embedded in the lower register to create dissonant sci-fi effects that deliberately elide the distinction between sound-effects and music. The laser switches from the cosine wave to a sawtooth to sound rougher and more aggressive in the more stressful environment.
 
 I designed the game’s dynamic music system. Synth instruments were created through a combination of Pure Data’s native oscillators as well as pre-built patches such as a physically modeled membrane and a replica Casio CZ-101.
+
+
+Video Demonstration:
+
+https://youtu.be/8q8Q8HTFnD0
